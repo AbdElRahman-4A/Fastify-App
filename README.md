@@ -5,6 +5,8 @@ This is a simple Fastify application with CRUD endpoints for managing users.
 Access the API:
 Open your browser or API client (e.g., Postman).
 
+Access Swagger Documentation : http://localhost:3000/docs
+
 Base URL: http://localhost:3000/users
 
 
