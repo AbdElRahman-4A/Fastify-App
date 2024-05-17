@@ -1,5 +1,5 @@
 {
-  "name": "fastifyapp",
+  "name": "fastify-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@fastify/autoload": "^5.8.2",
+    "@fastify/swagger": "^8.14.0",
+    "@fastify/swagger-ui": "^3.0.0",
     "fastify": "^4.27.0",
+    "fastify-swagger": "^5.2.0",
     "fastify-websocket": "^4.3.0",
     "mongoose": "^8.3.5",
     "nodemon": "^3.1.0",
