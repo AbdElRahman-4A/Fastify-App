@@ -5,7 +5,7 @@ This is a simple Fastify application with CRUD endpoints for managing users.
 Access the API:
 Open your browser or API client (e.g., Postman).
 
-Base URL: http://localhost:3000
+Base URL: http://localhost:3000/users
 
 
 Available routes:
